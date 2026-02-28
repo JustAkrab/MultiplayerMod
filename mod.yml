@@ -1,2 +1,11 @@
 title: Player 2 Sora Project
 description: Custom MSET for Multiplayer sync tests.
+assets:
+  - name: obj/P2_Sora.mdlx
+    method: copy
+    source:
+      - name: obj/P2_Sora.mdlx
+  - name: obj/P2_Sora.mset
+    method: copy
+    source:
+      - name: obj/P2_Sora.mset
