@@ -16,4 +16,4 @@ assets:
   - name: scripts/main.lua
     method: copy
     source:
-      - name: main.lua
+      - name: scripts/main.lua
