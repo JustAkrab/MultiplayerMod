@@ -9,3 +9,7 @@ assets:
     method: copy
     source:
       - name: obj/P2_Sora.mset
+  - name: 00objentry
+    method: binarc
+    source:
+      - name: obentry.patch
