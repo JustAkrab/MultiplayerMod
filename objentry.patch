@@ -1,0 +1,10 @@
+- type: listpatch
+  name: 00objentry.bin
+  method: objentry
+  entries:
+    - id: 999
+      name: P2_Sora
+      type: 1
+      target: 1
+      model: P2_Sora
+      motion: P2_Sora
