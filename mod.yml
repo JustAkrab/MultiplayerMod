@@ -13,3 +13,7 @@ assets:
     method: binarc
     source:
       - name: obentry.patch
+  - name: scripts/main.lua
+    method: copy
+    source:
+      - name: main.lua
