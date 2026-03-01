@@ -10,7 +10,7 @@ assets:
     source:
       - name: obj/P2_Sora.mset
   - name: 00objentry.bin
-    method: binarc
+    method: kh2binarc
     source:
       - name: obentry.patch
   - name: scripts/main.lua
